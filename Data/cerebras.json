@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "label": "",
-  "message": "Active",
-  "color": "green"
+  "message": "CS-1 currently unavailable",
+  "color": "red"
 }
