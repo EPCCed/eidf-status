@@ -1,6 +1,7 @@
 {
-  "schemaVersion": 1,
-  "label": "",
-  "message": "Active",
-  "color": "green"
-}
+    "schemaVersion": 1,
+    "label": "Active",
+    "message": "Beta Test",
+    "labelColor": "green",
+    "color": "grey"
+  }

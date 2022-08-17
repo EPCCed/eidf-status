@@ -7,15 +7,20 @@ Edit File for Service
 ```json
 {
   "schemaVersion": 1,
-  "label": "",
-  "message": "Active",
-  "color": "green"
+  "label": "Unavailable",
+  "labelColor": "red",
+  "message": "Under Investigation",
+  "color": "grey"
 }
 ```
 
-Change message to a short status wording - Active, At Risk, Down or similar to this.
+Change label to a short status wording - Active, At Risk, Down or similar to this.
 
-Change colour to a suitable colour - brightgreen,green, yellowgreen, yellow, orange, red, blue, lightgrey, blueviolet
+Change labelColor to a suitable colour - brightgreen,green, yellowgreen, yellow, orange, red, blue, lightgrey, blueviolet
+
+Change message to a short description wording - Under investigation, Repair, Beta Test
+
+Leave color at grey unless important.
 
 Commit Update to the repository
 
