@@ -1,1 +1,7 @@
-Unavailable Due To Fault
+{
+  "schemaVersion": 1,
+  "label": "",
+  "message": "Active",
+  "color": "green",
+  "eidfmessage": "Under Investigation"
+}
