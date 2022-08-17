@@ -1,6 +1,7 @@
 {
   "schemaVersion": 1,
-  "label": "",
+  "label": "Unavailable",
+  "labelColor": "red",
   "message": "Under Investigation",
-  "color": "white"
+  "color": "grey"
 }
