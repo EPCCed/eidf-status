@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "label": "Unavailable",
-  "message": "due to fault",
-  "labelColor": "red",
+  "label": "Active",
+  "message": "Available for use",
+  "labelColor": "green",
   "color": "grey"
 }
