@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "label": "Active",
-  "message": "Available for use",
-  "labelColor": "green",
+  "label": "Withdrawn",
+  "message": "Service withdrawn",
+  "labelColor": "redgreen",
   "color": "grey"
 }
