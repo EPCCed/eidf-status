@@ -1,7 +1,7 @@
 {
     "schemaVersion": 1,
-    "label": "Active",
-    "message": "Beta Test",
-    "labelColor": "green",
+    "label": "Down",
+    "message": "Down for maintenance",
+    "labelColor": "Red",
     "color": "grey"
   }
