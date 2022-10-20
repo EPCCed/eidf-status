@@ -2,6 +2,6 @@
     "schemaVersion": 1,
     "label": "Active",
     "message": "Maintenance - at risk",
-    "labelColor": "red",
+    "labelColor": "yellow",
     "color": "grey"
   }
