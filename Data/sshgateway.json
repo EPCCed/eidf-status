@@ -1,7 +1,7 @@
 {
     "schemaVersion": 1,
     "label": "Down",
-    "message": "Down for maintenance",
+    "message": "Maintenance",
     "labelColor": "red",
     "color": "grey"
   }
