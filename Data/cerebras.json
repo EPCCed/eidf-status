@@ -1,7 +1,7 @@
 {
     "schemaVersion": 1,
-    "label": "Maintenance",
-    "message": "Maintenance until 2nd June",
-    "labelColor": "yellow",
+    "label": "Active",
+    "message": "Available",
+    "labelColor": "green",
     "color": "grey"
   }
