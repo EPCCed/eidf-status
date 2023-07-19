@@ -27,3 +27,26 @@ Commit Update to the repository
 Update of status will take effect on the gh-pages update for the repository - can take up to 10-20minutes in some cases.
 
 Status will be updated when a user refreshes the documentation.
+
+## Update Portal Alert on the main page
+
+```json
+{
+  "highlight": "danger",
+  "header": "Openstack/DSC Full Maintenance 20 July 2023 between 0900 and 1700 BST",
+  "text": "This session will involve some outage to services (EIDF Portal, SSH Gateway, Guacamole) as we apply necessary patches and upgrades to the service and underlying infrastructure. We do not envisage that VMs will stop during that time, but they may be inaccessible for the duration."
+}
+```
+
+Change `highlight` to a suitable colour - danger (red), warning (yellow), success (green).
+
+Change `text` to the detailed description wording.
+
+Change `header` to the header of the alert, include start and end date and time if available
+
+Status will be updated when the user refreshes the main page.
+
+To remove the alert change to empty:
+```json
+{}
+```
