@@ -30,6 +30,8 @@ Status will be updated when a user refreshes the documentation.
 
 ## Update Portal Alert on the main page
 
+Update [Data/portal-alert.json](Data/portal-alert.json):
+
 ```json
 {
   "highlight": "danger",
