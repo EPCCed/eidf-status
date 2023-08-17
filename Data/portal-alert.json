@@ -1,5 +1,5 @@
 {
-  "highlight": "warning",
+  "highlight": "success",
   "header": "OpenStack/DSC: 'At-risk' Maintenance Thu 17th August 0800-1200 BST",
-  "text": "This is an at-risk session during which we do not expect interruption to your VMs. The EIDF network edge (VDI, SSH-gateway and Portal) may be inaccessible and drop connections for brief periods during this time as we perform routine updates and patching."
+  "text": "Today's maintenance is complete."
 }
