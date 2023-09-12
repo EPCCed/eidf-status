@@ -1,5 +1,5 @@
 {
   "highlight": "danger",
   "header": "Openstack/DSC Full Outage 18th September 0900 BST until Friday 22nd September",
-  "text": "There will be a major Data Centre Network (DCN) upgrade which will impact the external network connectivity at the Advanced Computing Facility (ACF). Users will be unable to access the EIDF Portal or connect to the DSC virtual machines via the the SSH Gateway or the Guacamole VDI. All VMs will be shut down so if you are running any workloads which require special or graceful shutdowns, please do so before Monday 18th September."
+  "text": "There will be a major Data Centre Network (DCN) upgrade which will impact the external network connectivity at the Advanced Computing Facility (ACF). Users will be unable to access the EIDF Portal or connect to the DSC virtual machines via the the SSH Gateway or the Guacamole VDI. All VMs will be shut down."
 }
