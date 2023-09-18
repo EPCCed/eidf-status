@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "label": "Unavailable",
+  "label": "Unavailable due to network works",
   "labelColor": "red",
   "message": "Under Investigation",
   "color": "grey"
