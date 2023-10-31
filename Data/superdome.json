@@ -1,7 +1,7 @@
 {
     "schemaVersion": 1,
-    "label": "Offline",
-    "message": "Unavailable due to network works",
-    "labelColor": "red",
+    "label": "Active",
+    "message": "Available",
+    "labelColor": "green",
     "color": "grey"
-  }
+}
