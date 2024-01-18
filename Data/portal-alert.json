@@ -1,5 +1,5 @@
 {
-    "highlight": "warning",
-    "header": "'At-risk' Maintenance Thursday 18th January 0800-1700",
-    "text": "The EIDF network edge (VDI, SSH-gateway and Portal) may be inaccessible and drop connections for brief periods as we perform routine updates and patching. VMs with directly attached GPUs will be shut down while we perform some hardware maintenance. The SSH gateway (eidf-gateway.epcc.ed.ac.uk) will change to use SSHKey + TOTP authentication. The EIDF Portal allows users to set their TOTP MFA token. "
+    "highlight": "success",
+    "header": "Complete: Maintenance Thursday 18th January 0800-1700",
+    "text": "The SSH gateway (eidf-gateway.epcc.ed.ac.uk) now uses SSHKey + TOTP authentication. The EIDF Portal allows users to set their TOTP MFA token."
  }
