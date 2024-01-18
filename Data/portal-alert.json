@@ -1,5 +1,5 @@
 {
     "highlight": "success",
     "header": "Complete: Maintenance Thursday 18th January 0800-1700",
-    "text": "The SSH gateway (eidf-gateway.epcc.ed.ac.uk) now uses SSHKey + TOTP authentication. The EIDF Portal allows users to set their TOTP MFA token."
+    "text": "The SSH gateway (eidf-gateway.epcc.ed.ac.uk) now uses SSHKey + TOTP authentication. Please remember to set your TOTP MFA token if connecting via the SSH gateway."
  }
