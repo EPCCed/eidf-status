@@ -1,5 +1,2 @@
 {
-    "highlight": "success",
-    "header": "New: Multi-Factor Authentication (MFA) enabled on the SSH gateway",
-    "text": "The SSH gateway (eidf-gateway.epcc.ed.ac.uk) now uses SSHKey + TOTP authentication. Please remember to set your TOTP MFA token if connecting via the SSH gateway."
- }
+}
