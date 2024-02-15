@@ -1,5 +1,5 @@
 {  
-     "highlight": "warning",
-     "header": "'At-risk' Maintenance Thursday 15th February 0800-1700",
-     "text": "This is an 'at-risk' session during which we do not expect interruption to your VMs. The EIDF network edge (VDI, SSH-gateway and Portal) will have short periods of outage as we patch and update these essential services. Your connections to VMs may drop during this time. We are also updating the underlying disk system during this slot, we don't expect any outage, but you may see some bursts of higher than normal latency and mildly reduced bandwidth."
+     "highlight": "success",
+     "header": "Complete: 'At-risk' Maintenance Thursday 15th February 0800-1700",
+     "text": "The maintenance session is now complete."
 }
