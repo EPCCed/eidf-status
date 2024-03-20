@@ -1,1 +1,5 @@
-{}
+{  
+      "highlight": "warning",
+      "header": "'At-risk' Maintenance Thursday 21st March 0800-1700",
+      "text": "This is an 'at-risk' session during which we do not expect interruption to your VMs. The EIDF network edge (VDI, SSH-gateway and Portal) will have short periods of outage as we patch and update these essential services. Your connections to VMs may drop during this time. We are also updating the Data Science Cloud and new VMs cannot be created or deleted during the maintenance."
+ }
