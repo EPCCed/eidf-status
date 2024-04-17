@@ -1,1 +1,5 @@
-{}
+{
+"highlight": "warning",
+"header": "'At-risk' Maintenance Thursday 18th April 0800-1700",
+"text": "This is an 'at-risk' session during which we do not expect interruption to your VMs. The EIDF network edge (VDI, SSH-gateway and Portal) will have periods of outage during the day as we patch and update these essential services. Your connections to VMs will drop during this time."
+}
