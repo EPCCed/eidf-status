@@ -1,5 +1,5 @@
 {
-     "highlight": "warning",
-     "header": "'At-risk' Maintenance Thursday 18th July between 0800 and 1700",
+     "highlight": "succes",
+     "header": "Completed: Maintenance Thursday 18th July between 0800 and 1700",
      "text": "The SSH gateway, VDI service, and EIDF portal will experience a period of outage during the day as we patch, update, and in some cases move the underlying infrastructure they depend on as part of general works at our datacentre. These outages may last up to 3 hours. Existing SSH connections via the gateway, or VDI connections, will be dropped as the updates happen."
 }
