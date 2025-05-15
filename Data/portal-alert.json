@@ -1,5 +1,2 @@
 {
-    "highlight": "warning",
-    "header": "'At-risk' Maintenance Thursday 15th May 0800-1700",
-    "text": "The Virtual Desktop Service will be at-risk as we perform updates to underlying infrastructure. Users may see connections to VMs drop briefly whilst any changes happen, though the VMs themselves will keep running."
 }
