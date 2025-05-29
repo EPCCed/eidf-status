@@ -1,7 +1,7 @@
 {
      "schemaVersion": 1,
-     "label": "Out of Service",
-     "message": "unavailable",
-     "labelColor": "red",
+     "label": "Active",
+     "message": "available",
+     "labelColor": "green",
      "color": "grey"
 }
