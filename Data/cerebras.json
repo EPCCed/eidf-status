@@ -1,7 +1,7 @@
 {
      "schemaVersion": 1,
-     "label": "Out of Service",
-     "message": "unavailable",
+     "label": "Shutdown",
+     "message": "Shutdown for Maintainance/Power Outage",
      "labelColor": "red",
      "color": "grey"
 }
