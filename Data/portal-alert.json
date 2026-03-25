@@ -1,5 +1,1 @@
-{
-  "highlight": "warning",
-  "header": "OpenStack Annual Upgrade 24th+25th March",
-  "text": "Expect connections to/from VMs to drop during this time as services are updated. VM creation/deletion/reboot will be suspended whilst during this period."
-}
+{}
