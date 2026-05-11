@@ -1,1 +1,5 @@
-{}
+{
+  "highlight": "warning",
+  "header": "Storage maintenance between 0900 on Monday 18th May and 0900 on Wednesday 20th May",
+  "text": "EPCC will be carrying out maintenance on the storage that is used by EIDF OpenStack, GPU and Cirrus services to improve stability. Services will be at-risk during this period and may perform slower than normal whilst the update works take place."
+}
