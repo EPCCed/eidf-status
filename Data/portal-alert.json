@@ -1,5 +1,5 @@
 {
-    "highlight": "success",
-    "header": "Join the EIDF Drop-in on 17th June 2026, at 10:00",
-    "text": "Join us for the next EIDF drop-in, on Wednesday 17th June 2026 at 10:00. Register now: <a href=\"https://edin.ac/4lDq3vt\">https://edin.ac/4lDq3vt</a>"
+    "highlight": "warning",
+    "header": "Maintenance between 0800 and 1700 on Thursday 18th June",
+    "text": "The EIDF May maintenance session will take place between 0800 and 1700 on Thursday 18th June. There will disruption to network connectivity including DNS during the maintenance period. The SSH gateway, VDI service and EIDF portal will experience brief outages as we patch and update these systems and the underlying infrastructure they depend on."
 }
