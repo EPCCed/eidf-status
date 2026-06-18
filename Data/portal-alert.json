@@ -1,5 +1,1 @@
-{
-    "highlight": "warning",
-    "header": "Maintenance between 0800 and 1700 on Thursday 18th June",
-    "text": "The EIDF May maintenance session will take place between 0800 and 1700 on Thursday 18th June. There will disruption to network connectivity including DNS during the maintenance period. The SSH gateway, VDI service and EIDF portal will experience brief outages as we patch and update these systems and the underlying infrastructure they depend on."
-}
+{}
