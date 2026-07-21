@@ -1,5 +1,5 @@
 {
-    "highlight": "danger",
-    "header": "All services unavailable 0830-1230 on 20th July.",
+    "highlight": "warning",
+    "header": "Network connectivity at risk 21 July 2026",
     "text": "There will be a complete network outage on 20th July for 4 hours starting at 0830 running until 1230. There will be no external connectivity to or from services during this time. This will be followed by 1.5 days of at-risk time where connectivity may be interrupted for short periods of time. This work is scheduled to complete at 1800 on the 21st July."
 }
